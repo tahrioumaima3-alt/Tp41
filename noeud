@@ -1,0 +1,5 @@
+class Noeud:
+
+    def __init__(self, valeur, enfants):
+        self.valeur = valeur
+        self.enfants = enfants
